@@ -1,4 +1,4 @@
-Hi, there! I'm [Fahim↗](https://instagram.com/muhaiminulfahim).
+Hi, there! I'm [Fahim↗](https://instagram.com/muhaiminulfahim).<br>
 A sophomore at [North South University](https://www.google.com/search?q=North+South+University) — majoring in Economics with a minor in Computer Science.<br>
 
 | Areas of<br>Interest| <img src="https://img.shields.io/badge/Business Analytics-blue"/><br><img src="https://img.shields.io/badge/Product Engineering-blue"/> <img src="https://img.shields.io/badge/Public Policy-blue"/><br><img src="https://img.shields.io/badge/Decentralized Finance/Technology-blue"/> |
