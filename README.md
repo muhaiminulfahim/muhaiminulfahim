@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, there! I'm [Fahim↗](https://instagram.com/muhaiminulfahim).
+A sophomore at [North South University](https://www.google.com/search?q=North+South+University) — majoring in Economics with a minor in Computer Science.<br>
 
-<!--
-**muhaiminulfahim/muhaiminulfahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Areas of<br>Interest| <img src="https://img.shields.io/badge/Business Analytics-blue"/><br><img src="https://img.shields.io/badge/Product Engineering-blue"/> <img src="https://img.shields.io/badge/Public Policy-blue"/><br><img src="https://img.shields.io/badge/Decentralized Finance/Technology-blue"/> |
+| :--- | :--- |
 
-Here are some ideas to get you started:
+| Languages | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,c"/> |
+| :--- | :--- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tools | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=notion,excel,vscode,eclipse,git,github,ps,ai"/> |
+| :--- | :--- |
+
+| AI Stack | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt"/> |
+| :--- | :--- |
+---
+### Let's Connect
+[Website](https://muhaiminulfahim.com) | [LinkedIn](https://linkedin.com/in/muhaiminulfahim) | [Medium](muhaiminulfahim.medium.com)
