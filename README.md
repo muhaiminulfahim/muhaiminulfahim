@@ -7,6 +7,9 @@ A sophomore at [North South University](https://www.google.com/search?q=North+So
 | Languages | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,c"/> |
 | :--- | :--- |
 
+| Frameworks | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss"/> |
+| :--- | :--- |
+
 | Tools | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=notion,excel,vscode,eclipse,git,github,ps,ai"/> |
 | :--- | :--- |
 
