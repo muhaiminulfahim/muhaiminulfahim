@@ -4,13 +4,7 @@ A sophomore at [North South University](https://northsouth.edu) — majoring in 
 | Areas of<br>Interest| <img src="https://img.shields.io/badge/Product Engineering & Analytics-blue"/><br><img src="https://img.shields.io/badge/Decentralized Technology-blue"/><br><img src="https://img.shields.io/badge/Public Policy-blue"/> |
 | :--- | :--- |
 
-| Technologies | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,git"/> |
-| :--- | :--- |
-
-| Tools | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=notion,excel,vscode,eclipse,github,ai,figma"/> |
-| :--- | :--- |
-
-| AI Stack | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=claude,gemini,chatgpt"/> |
+| Technologies<br>& Tools | <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,git,github,vscode,eclipse,figma,claude,gemini,chatgpt,notion,excel&perline=5"/> |
 | :--- | :--- |
 ---
 ### Let's Connect
