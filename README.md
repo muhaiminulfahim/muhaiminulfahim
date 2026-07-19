@@ -1,5 +1,5 @@
 Hi, there! I'm [Fahim↗](https://instagram.com/muhaiminulfahim).<br>
-A sophomore at [North South University](https://www.google.com/search?q=North+South+University) — majoring in Economics with a minor in Computer Science.<br>
+A sophomore at [North South University](https://northsouth.edu) — majoring in Economics with a minor in Computer Science.<br>
 
 | Areas of<br>Interest| <img src="https://img.shields.io/badge/Product Engineering & Analytics-blue"/><br><img src="https://img.shields.io/badge/Decentralized Technology-blue"/><br><img src="https://img.shields.io/badge/Public Policy-blue"/> |
 | :--- | :--- |
